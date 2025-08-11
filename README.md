@@ -93,6 +93,6 @@ Traffic_AMR/
 5. Connect the hardware as shown in circuit.png.
 
 6. Open a serial terminal (9600 baud) and send:
--R → Move Forward
--L → Move Backward
--S → Stop
+- R → Move Forward
+- L → Move Backward
+- S → Stop
