@@ -53,25 +53,6 @@ Refer to [`Component Req and Cost Analysis.pdf`](docs/Component%20Req%20and%20Co
 
 ---
 
-## 📂 Project Structure
-Traffic_AMR/
-│
-├── docs/
-│ ├── Automated Barrier System A Comprehensive Overview.pdf
-│ ├── Component Req and Cost Analysis.pdf
-│
-├── firmware/
-│ ├── Traffic_AMR.X/ # MPLAB X project folder
-│ └── main.c # Main firmware source code
-│
-├── simulation/
-│ ├── TRAFFIC_AMR.pdsprj # Simulation project file
-│ └── circuit.png # Circuit diagram
-│
-└── README.md
-
----
-
 ## 💻 Firmware Details
 - **Language**: C (XC8 Compiler)
 - **IDE**: MPLAB X
