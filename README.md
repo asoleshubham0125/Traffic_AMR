@@ -15,8 +15,8 @@ This system can be controlled via serial commands (`R`, `L`, `S`) and includes s
   - **Red LED**: Indicates motion in progress.
 - **Buzzer Alert** (optional, can be enabled in code).
 - **Serial Command Interface**:
-  - `R` → Move Forward
-  - `L` → Move Backward
+  - `R` → Move Right
+  - `L` → Move Left
   - `S` → Stop
 - **Safety Timeout** to automatically stop after a set duration.
 
