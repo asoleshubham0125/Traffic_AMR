@@ -8,7 +8,7 @@ This system can be controlled via serial commands (`R`, `L`, `S`) and includes s
 ---
 
 ## 🚀 Features
-- **Forward & Backward Movement** with obstacle avoidance.
+- **Left & Right Movement** with obstacle avoidance.
 - **Ultrasonic Sensor Integration** for distance measurement.
 - **LED Indicators:**
   - **Yellow LED**: Warning before movement.
