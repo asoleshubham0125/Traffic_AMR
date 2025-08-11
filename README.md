@@ -106,7 +106,7 @@ Traffic_AMR/
 ---
 
 ## 👤 Author
-Shubham Asole
-📧 asoleshubham01@gmail.com
-🔗 GitHub Profile
+-- Shubham Asole
+-- 📧 asoleshubham01@gmail.com
+-- 🔗 [GitHub Profile](https://github.com/asoleshubham0125)
 
