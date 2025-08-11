@@ -96,3 +96,9 @@ Traffic_AMR/
 - R → Move Forward
 - L → Move Backward
 - S → Stop
+
+---
+## 📄 Documentation
+['Automated Barrier System – Comprehensive Overview'](docs/Auto)
+Component Requirements & Cost Analysis
+
