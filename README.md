@@ -99,6 +99,6 @@ Traffic_AMR/
 
 ---
 ## 📄 Documentation
-['Automated Barrier System – Comprehensive Overview'](docs/Auto)
+['Automated Barrier System – Comprehensive Overview'](docs/Automated%20Barrier%20System%20A%20Comprehensive%20Overview.pdf)
 Component Requirements & Cost Analysis
 
